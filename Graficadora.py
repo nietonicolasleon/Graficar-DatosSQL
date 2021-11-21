@@ -13,4 +13,5 @@ for tex in texto:
 pyplot.axis('equal')  # Convierte al gráfico en un círuclo perfecto
 pyplot.title('Gráfico circular de la cantidad de jugadores por consola')  # Agrega un título
 pyplot.show()  # Muestra el gráfico
+
 pyplot.savefig('graficoqueryb.png')  # Guarda el gráfico como imagen
